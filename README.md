@@ -2,7 +2,7 @@
 ## Github:
 ![Github](https://github.com/Anikcb/Computer-Engineering-Basics/blob/main/Show%20File/github.jpg?raw=true)<br><br>
 - How to create a [Github](https://www.youtube.com/watch?v=bK2M6JK1cYk&ab_channel=HowTo) account
-- Learn about [Markdown](https://www.markdownguide.org/cheat-sheet/)
+- Learn about [Markdown](https://www.markdownguide.org/basic-syntax/)
 - How to create a [Repository](https://www.youtube.com/watch?v=xmK1Q5uzH4w&ab_channel=MeriEngel)
 - How to make github profile [attractive](https://www.youtube.com/watch?v=LooNWF67jrk&t=23s&ab_channel=KhushbooGoel)
 - How to improve [Readme](https://www.youtube.com/watch?v=yXY3f9jw7fg&ab_channel=CodeTime) of a Repository
