@@ -9,6 +9,12 @@
 - How to [Contribute](https://www.youtube.com/watch?v=waEb2c9NDL8&ab_channel=Jovo) in a Project
 - [First Contribution](https://github.com/firstcontributions/first-contributions)<br><br>
 
+## Git:
+![Git](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/git.jpg?raw=true)<br><br>
+- What is [Git](https://www.youtube.com/watch?v=2ReR1YJrNOM&ab_channel=ProgrammingwithMosh)
+- What [benefits](https://guide.quickscrum.com/git-guide/) does Git offer
+- How to [use](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia) Git
+
 ## Portfolio:
 ![poerfolio](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/portfolio.jpg?raw=true)
 - What is [Portfolio](https://clarke.edu/academics/careers-internships/student-checklist/resume-writing-and-portfolios/what-is-a-portfolio/)
