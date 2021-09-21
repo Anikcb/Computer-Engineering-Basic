@@ -25,4 +25,33 @@
 ![LinekdIn](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/LinkedIn.jpg?raw=true)<br><br>
 - Benefits of having a [LinkedIn](https://www.linkedin.com/pulse/7-benefits-using-linkedin-sarah-rycraft/) account
 - How to Create a [LinkedIn](https://www.youtube.com/watch?v=jh5eDSMPvjE&ab_channel=GCFLearnFree.org) account
-- How to make your [LinkedIn Profile](https://www.youtube.com/watch?v=zd4ALKv8Das&ab_channel=ExpertAcademy) attractive or Professional
+- How to make your [LinkedIn Profile](https://www.youtube.com/watch?v=zd4ALKv8Das&ab_channel=ExpertAcademy) attractive or Professional<br><br>
+
+## Blog:<br>
+![Blog](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/blog.jpg?raw=true)
+- What is [blog](https://firstsiteguide.com/what-is-blog/).
+- How to [create](https://www.youtube.com/watch?v=NdVHrTRD3wU&ab_channel=WebsiteLearners) a blog<br><br>
+
+## Free Website:<br>
+![Free Website](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/Free_Website.png?raw=true)
+- How To [Create](https://www.youtube.com/watch?v=XV1cOGaZUq0&ab_channel=WebsiteLearners) A Free Website - with Free Domain & Hosting<br><br>
+
+## Windows:<br>
+
+## Linux:<br>
+
+## Softwares:
+### This softwares are very useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
