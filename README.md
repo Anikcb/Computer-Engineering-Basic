@@ -39,14 +39,26 @@
 ## Trello:<br>
 ![Trello](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/Trello.jpg?raw=true)
 - What is [Trello](https://youtu.be/WpPGeTlDNuI)
-- How to [use](https://youtu.be/6drUzoeHZkg) Trello
+- How to [use](https://youtu.be/6drUzoeHZkg) Trello<br><br>
+
+## Slack:<br>
+![Slack](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/slack.jpg?raw=true)
+- What is [Slack](https://youtu.be/q19RtuCHt1Q)
+- How to [use](https://youtu.be/7YUTc4Cigc8) Slack<br><br>
 
 ## Windows:<br>
 
 ## Linux:<br>
 
 ## Softwares:
-### This softwares are very useful.
+### * [TreeSize Free](https://www.jam-software.com/treesize_free)
+### * [Anydesk](https://anydesk.com/en)
+### * [Revo Uninstaller](https://www.revouninstaller.com/)
+
+
+
+
+
 
 
 
