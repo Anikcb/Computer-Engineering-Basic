@@ -46,15 +46,21 @@
 - What is [Slack](https://youtu.be/q19RtuCHt1Q)
 - How to [use](https://youtu.be/7YUTc4Cigc8) Slack<br><br>
 
-## Windows:<br>
+## Windows/Linux:<br>
 
-## Linux:<br>
+## VirtualBox:
+![Virtualbox](https://github.com/Anikcb/Computer-Science-Basics/blob/main/Show%20File/VirtualBox.jpg?raw=true)
+- What is [VirtualBox](https://youtu.be/sB_5fqiysi4) and how to use it
 
 ## Softwares:
 ### * [TreeSize Free](https://www.jam-software.com/treesize_free)
-### * [Anydesk](https://anydesk.com/en)
-### * [Revo Uninstaller](https://www.revouninstaller.com/)
+- &nbsp; What is [TreeSize Free](https://www.lifewire.com/treesize-free-review-2619183)
 
+### * [Anydesk](https://anydesk.com/en)
+- &nbsp; What is [Anydesk](https://www.javatpoint.com/anydesk)
+
+### * [Revo Uninstaller](https://www.revouninstaller.com/)
+- &nbsp; What is [Revo Installer](https://en.wikipedia.org/wiki/Revo_Uninstaller)
 
 
 
